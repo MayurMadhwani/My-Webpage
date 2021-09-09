@@ -2,4 +2,4 @@
 
 Created a personal webpage using HTML & CSS
 
-<img src="image.png" width=250 alignment = center> 
+<img src="tutorial/image.png" width=250 alignment = center> 
